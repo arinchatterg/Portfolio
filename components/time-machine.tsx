@@ -5,13 +5,13 @@ import { motion } from "framer-motion"
 import { useShortcuts, clamp } from "@/hooks/use-shortcut"
 
 const IMAGES = [
-  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158599/IMG_20260815_121826.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158593/IMG_20260601_134513.jpg",
   "https://res.cloudinary.com/a82shxs4/image/upload/v1787158609/IMG_20260602_103550.jpg",
   "https://res.cloudinary.com/a82shxs4/image/upload/v1787158564/IMG-20251101-WA0019.jpg",
   "https://res.cloudinary.com/a82shxs4/image/upload/v1787158572/1000067467.jpg",
   "https://res.cloudinary.com/a82shxs4/image/upload/v1787158583/IMG_20260603_113143.jpg",
-  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158593/IMG_20260601_134513.jpg",
   "https://res.cloudinary.com/a82shxs4/image/upload/v1787158599/IMG_20260815_121826.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158593/IMG_20260601_134513.jpg",
 ]
 
 const FRAME_OFFSET = -30
