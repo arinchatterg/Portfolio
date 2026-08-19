@@ -5,13 +5,13 @@ import { motion } from "framer-motion"
 import { useShortcuts, clamp } from "@/hooks/use-shortcut"
 
 const IMAGES = [
-  "https://cdn.cosmos.so/5689a5cd-92a5-4cb1-b014-263da4f55731?format=jpeg",
-  "https://cdn.cosmos.so/c4588488-0021-4804-9c29-a43059378bfe?format=jpeg",
-  "https://cdn.cosmos.so/de8c561b-e4e4-48f3-9068-30d63b92c43e?format=jpeg",
-  "https://cdn.cosmos.so/207b3ba7-13ef-496b-a9cb-2a718e14a24e?format=jpeg",
-  "https://cdn.cosmos.so/6c41e632-d300-4516-a7af-9a1f7c0aef94?format=jpeg",
-  "https://cdn.cosmos.so/e552eaac-8251-4890-b954-e988fc4bf2e0?format=jpeg",
-  "https://cdn.cosmos.so/5689a5cd-92a5-4cb1-b014-263da4f55731?format=jpeg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158599/IMG_20260815_121826.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158609/IMG_20260602_103550.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158564/IMG-20251101-WA0019.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158572/1000067467.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158583/IMG_20260603_113143.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158593/IMG_20260601_134513.jpg",
+  "https://res.cloudinary.com/a82shxs4/image/upload/v1787158599/IMG_20260815_121826.jpg",
 ]
 
 const FRAME_OFFSET = -30
